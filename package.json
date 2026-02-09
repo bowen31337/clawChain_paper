@@ -1,0 +1,10 @@
+{
+  "name": "clawchain-paper",
+  "version": "1.0.0",
+  "description": "Claw Chain: Agent Node & Airdrop Interface",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^3.0.0",
+    "@biomejs/biome": "1.8.3"
+  }
+}
